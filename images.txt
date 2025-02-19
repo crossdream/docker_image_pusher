@@ -32,10 +32,10 @@
 #powerjob/powerjob-server:latest
 #datart/datart
 #selenium/standalone-chrome
-nacos/nacos-server
-apacherocketmq/rocketmq-dashboard
-apache/rocketmq
-xuxueli/xxl-job-admin
+#nacos/nacos-server
+#apacherocketmq/rocketmq-dashboard
+#apache/rocketmq
+#xuxueli/xxl-job-admin
 seataio/seata-server
 bladex/sentinel-dashboard
 elasticsearch
