@@ -35,8 +35,8 @@
 #nacos/nacos-server
 #apacherocketmq/rocketmq-dashboard
 #apache/rocketmq
-xuxueli/xxl-job-admin:3.0.0
+#xuxueli/xxl-job-admin:3.0.0
 #seataio/seata-server
 #bladex/sentinel-dashboard
-#elasticsearch
-kibana
+elasticsearch:8.17.2
+kibana:8.17.2
