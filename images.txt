@@ -36,9 +36,7 @@
 #apacherocketmq/rocketmq-dashboard
 #apache/rocketmq
 #xuxueli/xxl-job-admin
-seataio/seata-server
-bladex/sentinel-dashboard
-elasticsearch
+#seataio/seata-server
+#bladex/sentinel-dashboard
+#elasticsearch
 kibana
-
-
