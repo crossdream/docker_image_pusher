@@ -38,5 +38,5 @@
 #xuxueli/xxl-job-admin:3.0.0
 #seataio/seata-server
 #bladex/sentinel-dashboard
-elasticsearch:8.17.2
-kibana:8.17.2
+#elasticsearch:8.17.2
+#kibana:8.17.2
