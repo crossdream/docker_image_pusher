@@ -40,3 +40,4 @@
 #bladex/sentinel-dashboard
 #elasticsearch:8.17.2
 #kibana:8.17.2
+eclipse-temurin:21-jre
