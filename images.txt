@@ -14,6 +14,7 @@
 #wurstmeister/kafka:2.13-2.7.1
 #wurstmeister/zookeeper
 #nacos/nacos-server
+nacos-server:v2.3.2-slim
 #datart/datart
 #selenium/standalone-chrome
 #luodaoyi/kms-server
@@ -35,7 +36,9 @@
 #nacos/nacos-server
 #apacherocketmq/rocketmq-dashboard:latest
 #apache/rocketmq:5.3.1
+apache/rocketmq:5.2.0
 #xuxueli/xxl-job-admin:3.0.0
+xuxueli/xxl-job-admin:2.3.1
 #seataio/seata-server
 #bladex/sentinel-dashboard
 #elasticsearch:8.17.2
