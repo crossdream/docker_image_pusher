@@ -13,8 +13,6 @@
 #ktxcx/activemq:5.16.4
 #wurstmeister/kafka:2.13-2.7.1
 #wurstmeister/zookeeper
-#nacos/nacos-server
-nacos-server:v2.3.2-slim
 #datart/datart
 #selenium/standalone-chrome
 #luodaoyi/kms-server
@@ -33,7 +31,7 @@ nacos-server:v2.3.2-slim
 #powerjob/powerjob-server:latest
 #datart/datart
 #selenium/standalone-chrome
-#nacos/nacos-server
+nacos-server:v2.3.2-slim
 #apacherocketmq/rocketmq-dashboard:latest
 #apache/rocketmq:5.3.1
 apache/rocketmq:5.2.0
