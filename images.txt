@@ -31,7 +31,6 @@
 #powerjob/powerjob-server:latest
 #datart/datart
 #selenium/standalone-chrome
-#nacos/nacos-server:v2.3.2-slim
 #apacherocketmq/rocketmq-dashboard:latest
 #apache/rocketmq:5.3.1
 #xuxueli/xxl-job-admin:3.0.0
