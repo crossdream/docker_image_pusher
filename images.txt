@@ -39,6 +39,4 @@
 #elasticsearch:8.17.2
 #apache/skywalking-oap-server:10.1.0-java21
 #apache/skywalking-ui:10.1.0-java21
-apache/skywalking-ui:10.1.0
-apache/skywalking-ui:10.1.0-java17
 #eclipse-temurin:21-jre
