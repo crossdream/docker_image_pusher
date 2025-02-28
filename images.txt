@@ -36,6 +36,7 @@
 #xuxueli/xxl-job-admin:3.0.0
 #seataio/seata-server
 #bladex/sentinel-dashboard
-#elasticsearch:8.17.2
-#kibana:8.17.2
+elasticsearch:7.5.1
+apache/skywalking-oap-server:6.6.0-es7
+skywalking-ui:6.6.0
 #eclipse-temurin:21-jre
