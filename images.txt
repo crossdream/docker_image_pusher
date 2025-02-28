@@ -38,5 +38,5 @@
 #bladex/sentinel-dashboard
 elasticsearch:7.5.1
 apache/skywalking-oap-server:6.6.0-es7
-skywalking-ui:6.6.0
+apache/skywalking-ui:6.6.0
 #eclipse-temurin:21-jre
