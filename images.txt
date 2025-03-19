@@ -40,4 +40,5 @@
 #apache/skywalking-oap-server:10.1.0-java21
 #apache/skywalking-ui:10.1.0-java21
 #eclipse-temurin:21-jre
-tdengine/tdengine
+#tdengine/tdengine
+emqx/emqx
