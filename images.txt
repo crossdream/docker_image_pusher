@@ -8,6 +8,7 @@
 #franklin5/lanproxy-server
 #yegor256/squid-proxy
 #mongo:4.0
+mongo:7.0
 #redis:4.0.2-alpine
 #mysql:8.0
 #ktxcx/activemq:5.16.4
