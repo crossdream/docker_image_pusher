@@ -43,4 +43,5 @@
 #eclipse-temurin:21-jre
 #tdengine/tdengine
 #emqx/emqx
-xuxueli/xxl-job-admin:2.4.0
+#xuxueli/xxl-job-admin:2.4.0
+jetbrains/teamcity-server:2025.03.3
