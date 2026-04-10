@@ -40,10 +40,10 @@
 #elasticsearch:8.17.2
 #apache/skywalking-oap-server:10.1.0-java21
 #apache/skywalking-ui:10.1.0-java21
-#eclipse-temurin:21-jre
 #tdengine/tdengine
 #emqx/emqx
 #xuxueli/xxl-job-admin:2.4.0
 #jetbrains/teamcity-server:2025.03.3
 #openeuler/tengine:3.1.0-oe2403sp1
-eclipse-temurin:8-jre
+#eclipse-temurin:8-jre
+eclipse-temurin:21-jre
