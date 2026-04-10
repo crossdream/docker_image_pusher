@@ -46,4 +46,4 @@
 #xuxueli/xxl-job-admin:2.4.0
 #jetbrains/teamcity-server:2025.03.3
 #openeuler/tengine:3.1.0-oe2403sp1
-apache/beam_java8_sdk:2.65.0
+openjdk:8-jre-slim
