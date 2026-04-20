@@ -46,6 +46,10 @@
 #jetbrains/teamcity-server:2025.03.3
 #openeuler/tengine:3.1.0-oe2403sp1
 #eclipse-temurin:8-jre
-eclipse-temurin:11-jre
-eclipse-temurin:17-jre
+#eclipse-temurin:11-jre
+#eclipse-temurin:17-jre
 #eclipse-temurin:21-jre
+eclipse-temurin:8-jdk
+eclipse-temurin:11-jdk
+eclipse-temurin:17-jdk
+eclipse-temurin:21-jdk
