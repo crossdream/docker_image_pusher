@@ -49,7 +49,8 @@
 #eclipse-temurin:11-jre
 #eclipse-temurin:17-jre
 #eclipse-temurin:21-jre
-eclipse-temurin:8-jdk
-eclipse-temurin:11-jdk
-eclipse-temurin:17-jdk
-eclipse-temurin:21-jdk
+#eclipse-temurin:8-jdk
+#eclipse-temurin:11-jdk
+#eclipse-temurin:17-jdk
+#eclipse-temurin:21-jdk
+axizdkr/tengine
