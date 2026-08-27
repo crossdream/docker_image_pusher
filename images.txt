@@ -5,8 +5,15 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #nginx:1.13.2-alpine
+#uozi/nginx-ui:latest
+#uozi/nginx-ui:2.4.0
+uozi/nginx-ui:2.5.10
+#axizdkr/tengine
+
+
 #franklin5/lanproxy-server
 #yegor256/squid-proxy
+
 #mongo:4.0
 #mongo:7.0
 #redis:4.0.2-alpine
@@ -27,8 +34,7 @@
 #docker/desktop-kubernetes:kubernetes-v1.30.2-cni-v1.4.0-critools-v1.29.0-cri-dockerd-v0.3.11-1-debian
 #docker/desktop-storage-provisioner:v2.0
 #docker/desktop-vpnkit-controller:dc331cb22850be0cdd97c84a9cfecaf44a1afb6e
-#uozi/nginx-ui:latest
-uozi/nginx-ui:2.4.0
+
 #portainer/portainer:latest
 #powerjob/powerjob-server:latest
 #datart/datart
@@ -54,4 +60,3 @@ uozi/nginx-ui:2.4.0
 #eclipse-temurin:11-jdk
 #eclipse-temurin:17-jdk
 #eclipse-temurin:21-jdk
-#axizdkr/tengine
