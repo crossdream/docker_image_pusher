@@ -8,8 +8,8 @@
 #uozi/nginx-ui:latest
 #uozi/nginx-ui:2.4.0
 #uozi/nginx-ui:2.5.10
-#axizdkr/tengine
-openeuler/tengine:3.1.0-oe2403sp4
+axizdkr/tengine:3.1.0
+#openeuler/tengine:3.1.0-oe2403sp4
 
 #franklin5/lanproxy-server
 #yegor256/squid-proxy
