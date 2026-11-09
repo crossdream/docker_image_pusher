@@ -37,7 +37,7 @@
 
 #portainer/portainer:latest
 #powerjob/powerjob-server:latest
-powerjob/powerjob-server:5.1.7
+powerjob/powerjob-server:v5.1.7
 #datart/datart
 #selenium/standalone-chrome
 #apacherocketmq/rocketmq-dashboard:latest
