@@ -8,7 +8,7 @@
 #uozi/nginx-ui:latest
 #uozi/nginx-ui:2.4.0
 #uozi/nginx-ui:2.5.10
-axizdkr/tengine:3.1.0
+#axizdkr/tengine:3.1.0
 #openeuler/tengine:3.1.0-oe2403sp4
 
 #franklin5/lanproxy-server
@@ -37,6 +37,7 @@ axizdkr/tengine:3.1.0
 
 #portainer/portainer:latest
 #powerjob/powerjob-server:latest
+powerjob/powerjob-server:6.0.0
 #datart/datart
 #selenium/standalone-chrome
 #apacherocketmq/rocketmq-dashboard:latest
